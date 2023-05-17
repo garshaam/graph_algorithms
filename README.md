@@ -1,4 +1,4 @@
-### ~~In progress ~~
+### <del>In progress</del>
 ### Will not be finished
 
 # graph_algorithms
